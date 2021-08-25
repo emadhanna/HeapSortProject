@@ -6,7 +6,7 @@
 //Libraries
 import java.util.Random;
 
-class HeapSortTest
+class HeapSort
 {
 	//Random Number Generator
 	//A computer cannot get truely random numbers.
